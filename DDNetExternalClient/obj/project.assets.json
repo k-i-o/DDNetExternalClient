@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "swed64/1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/swed64.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/swed64.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "swed64/1.0.5": {
+      "sha512": "hjPJApGh5ppws192I2mw5/XKY6lD1fbA5k9WuxUT2OwCMSmMrtRZ+fAYPQF2R3DBXlgjnrRMKqcurkFFynG+cg==",
+      "type": "package",
+      "path": "swed64/1.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "64.png",
+        "LICENSE.txt",
+        "lib/net6.0/swed64.dll",
+        "swed64.1.0.5.nupkg.sha512",
+        "swed64.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "swed64 >= 1.0.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sradi\\.nuget\\packages\\": {},
+    "D:\\Microsoft Visual Studio\\IDK\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sradi\\Desktop\\DDNetExternalClient\\DDNetExternalClient\\DDNetExternalClient.csproj",
+      "projectName": "DDNetExternalClient",
+      "projectPath": "C:\\Users\\sradi\\Desktop\\DDNetExternalClient\\DDNetExternalClient\\DDNetExternalClient.csproj",
+      "packagesPath": "C:\\Users\\sradi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sradi\\Desktop\\DDNetExternalClient\\DDNetExternalClient\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Microsoft Visual Studio\\IDK\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\sradi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "swed64": {
+            "target": "Package",
+            "version": "[1.0.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

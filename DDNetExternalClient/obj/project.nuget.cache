@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pvF57ZKQu6k16lYhgUR+h/q4Ttkw9fF+D0dRh2h1kHE9ypN8tu7fIFMVZKZG8Z7i35eyGJEKa92R8dLNS7GuwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sradi\\Desktop\\DDNetExternalClient\\DDNetExternalClient\\DDNetExternalClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sradi\\.nuget\\packages\\swed64\\1.0.5\\swed64.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
