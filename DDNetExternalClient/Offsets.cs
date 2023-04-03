@@ -1,8 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
+/*using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading.Tasks;*/
 
 namespace DDNetExternalClient
 {
@@ -32,7 +32,6 @@ namespace DDNetExternalClient
         public static int playerFire = 0x60;
         public static int playerHook = 0x64;
         public static int playerSwitchWeapon = 0x6C;
-
 
     }
 }
