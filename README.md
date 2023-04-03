@@ -5,7 +5,9 @@
 ## Here you can found:
 - 3 different types of aimbot (hook and fire)
 - Stabilizer on the head of the player
-- 
+- Motion recorder (need fix)
+- Overlay with ESP (nice but useless in this game)
+- Overlay with other useless things
 
 ### NOTE: the main offsets inside Offset.cs can change (public static int playersBase | public static int playerBase) if do you want update those variables you can watch my video 
 
