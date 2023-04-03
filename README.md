@@ -7,5 +7,4 @@
 - Stabilizer on the head of the player
 - 
 
-###NOTE: the main offsets inside Offset.cs can change (public static int playersBase | public static int playerBase) if do you want update those variables you can watch my video
-[!video](https://youtu.be/DSCWU2PXjOw)
+###NOTE: the main offsets inside Offset.cs can change (public static int playersBase | public static int playerBase) if do you want update those variables you can watch my [video](https://youtu.be/DSCWU2PXjOw)
