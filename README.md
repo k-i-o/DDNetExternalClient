@@ -2,7 +2,7 @@
 
 > External Cheat made for educational purposes and to train me to read the allocated memory.
 
-## Here you can found:
+## Here you can find:
 - 3 different types of aimbot (hook and fire)
 - Stabilizer on the head of the player
 - Motion recorder (need fix)
